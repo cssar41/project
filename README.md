@@ -1,5 +1,5 @@
-# project
-## Aim
+# Project:
+## Aim:
 To write a python program using OpenCV to do the following image manipulations.
 i) Extract ROI from  an image.
 ii) Perform handwritting detection in an image.
@@ -12,7 +12,7 @@ Anaconda - Python 3.7
 Import necessary packages 
 ### Step2:
 Read the image and convert the image into RGB
-### Step3:# project
+### Step3:
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
 i) Extract ROI from  an image.
